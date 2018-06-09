@@ -1,8 +1,16 @@
 # ClickCounter
 Created with CodeSandbox
 
+https://jl3n9zojz3.codesandbox.io/
+
 ## Using State Correctly
 
 > this.setState({comment: 'Hello'});
 
-https://jl3n9zojz3.codesandbox.io/
+> problem with setState
+`Click1,
+
+
+
+
+
