@@ -1,2 +1,0 @@
-# Click
-Created with CodeSandbox
