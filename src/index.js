@@ -1,30 +1,8 @@
-import React from "react";
-import { render } from "react-dom";
-import Click from "./Click";
-import Click1 from "./Click1";
-import Click2 from "./Click2";
-import Click3 from "./Click3";
+import React from 'react';
+import ReactDom from 'react-dom';
+import App from './component/app';
 
-const styles = {
-  fontFamily: "sans-serif",
-  textAlign: "center"
-};
-
-const App = () => (
-  <div style={styles}>
-    <div>
-      <Click />
-    </div>
-    <div>
-      <Click1 />
-    </div>
-      <Click2 />
-    <div />
-
-    <div>
-      <Click3 />
-      </div>
-  </div>
+ReactDom.render(
+    <App/>,
+    document.getElementById('root')
 );
-
-render(<App />, document.getElementById("root"));
