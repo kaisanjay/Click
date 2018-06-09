@@ -1,4 +1,4 @@
-`https://codesandbox.io/s/pyxzrv14wj` Open this
+https://codesandbox.io/s/pyxzrv14wj Open this
 # ClickCounter
 Created with CodeSandbox
 
