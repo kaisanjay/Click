@@ -8,7 +8,11 @@ https://jl3n9zojz3.codesandbox.io/
 > this.setState({comment: 'Hello'});
 
 > problem with setState
-`Click1,
+`Click1`
+>  solution 1
+`Click2`
+> best solution
+`Click3`
 
 
 
